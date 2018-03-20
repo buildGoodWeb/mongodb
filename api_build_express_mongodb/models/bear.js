@@ -5,4 +5,6 @@ var BearSchema = new Schema({
   name: String
 });
 
+BearSchema.index({id: 1});
+
 module.exports = mongoose.model('Bear', BearSchema);
