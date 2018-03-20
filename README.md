@@ -1,6 +1,6 @@
 # mongodb
 
-> typescript + mongodb
+> express + mongodb
 ## environment build
 ```bash
 # docker start mongodb
