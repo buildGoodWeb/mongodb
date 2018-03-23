@@ -88,4 +88,3 @@
 //   put: qPut,
 //   delete: qDelete,
 // };
-
