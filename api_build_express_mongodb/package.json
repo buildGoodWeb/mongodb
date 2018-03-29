@@ -7,7 +7,8 @@
     "start": "node server.js",
     "test": "jest",
     "prettier": "prettier --write '**/*.js'",
-    "prettier:debug": "prettier '**/*.js' --debug-check"
+    "prettier:debug": "prettier '**/*.js' --debug-check",
+    "e2e": "nightwatch --config e2e/nightwatch.conf.js"
   },
   "author": "wkl",
   "license": "ISC",

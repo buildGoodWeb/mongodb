@@ -11,5 +11,11 @@ module.exports = {
         requirePragma: false,
       },
     },
+    {
+      files: 'e2e/**/*.js',
+      options: {
+        trailingComma: 'es5',
+      },
+    },
   ],
 };
