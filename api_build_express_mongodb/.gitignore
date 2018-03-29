@@ -1,0 +1,6 @@
+node_modules
+
+# selenium
+selenium-debug.log
+e2e/reports/*
+
