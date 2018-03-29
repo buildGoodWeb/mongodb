@@ -13,4 +13,4 @@ var CONSTANTS = {
 
 module.exports = {
   CONSTANTS: CONSTANTS,
-}
+};
